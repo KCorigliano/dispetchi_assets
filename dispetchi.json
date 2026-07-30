@@ -1,1 +1,127 @@
-
+{
+  "baseUrl": "https://raw.githubusercontent.com/KCorigliano/dispetchi_assets/main/assets/",
+  "version": 1,
+  "mascots": [
+    {
+      "id": "Piko",
+      "title": "Piko",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "mascot.png",
+      "reactionFile": "mascot_reaction.png",
+      "chargingFile": "mascot_green.png",
+      "lowBatteryFile": "mascot_red.png",
+      "soundFile": "sfx_magic.wav"
+    },
+    {
+      "id": "Hoshi",
+      "title": "Hoshi",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "star_mascot.png",
+      "reactionFile": "star_mascot_reaction.png",
+      "chargingFile": "star_mascot_green.png",
+      "lowBatteryFile": "star_mascot_red.png",
+      "soundFile": "sfx_sparkle.wav"
+    },
+    {
+      "id": "Mimi",
+      "title": "Mimi",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "cat_ears.png",
+      "reactionFile": "cat_ears_reaction.png",
+      "chargingFile": "cat_ears_green.png",
+      "lowBatteryFile": "cat_ears_red.png",
+      "soundFile": "sfx_chibi.wav"
+    },
+    {
+      "id": "Bao",
+      "title": "Bao",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "cyber_bunny.png",
+      "reactionFile": "cyber_bunny_reaction.png",
+      "chargingFile": "cyber_bunny_green.png",
+      "lowBatteryFile": "cyber_bunny_red.png",
+      "soundFile": "sfx_levelup.wav"
+    },
+    {
+      "id": "Kitsune",
+      "title": "Kitsune Spark",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "sparky_fox.png",
+      "reactionFile": "sparky_fox_reaction.png",
+      "chargingFile": "sparky_fox_green.png",
+      "lowBatteryFile": "sparky_fox_red.png",
+      "soundFile": "sfx_pop.wav"
+    },
+    {
+      "id": "Draco",
+      "title": "Draco",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "flame_dragon.png",
+      "reactionFile": "flame_dragon_reaction.png",
+      "chargingFile": "flame_dragon_green.png",
+      "lowBatteryFile": "flame_dragon_red.png",
+      "soundFile": "sfx_magic.wav"
+    },
+    {
+      "id": "Yuki",
+      "title": "Yuki Maid",
+      "isPro": false,
+      "isAnimated": false,
+      "normalFile": "neko_maid.png",
+      "reactionFile": "neko_maid_reaction.png",
+      "chargingFile": "neko_maid_green.png",
+      "lowBatteryFile": "neko_maid_red.png",
+      "soundFile": "sfx_chibi.wav"
+    },
+    {
+      "id": "Vectra",
+      "title": "Vectra-01",
+      "isPro": true,
+      "isAnimated": false,
+      "normalFile": "cyber_mecha.png",
+      "reactionFile": "cyber_mecha_reaction.png",
+      "chargingFile": "cyber_mecha_green.png",
+      "lowBatteryFile": "cyber_mecha_red.png",
+      "soundFile": "sfx_levelup.wav"
+    },
+    {
+      "id": "PikoAnimated",
+      "title": "Piko Animated",
+      "isPro": true,
+      "isAnimated": true,
+      "normalFile": "piko_animated.gif",
+      "reactionFile": "piko_animated_reaction.gif",
+      "chargingFile": "piko_animated_charging.gif",
+      "lowBatteryFile": "piko_animated_low_battery.gif",
+      "soundFile": "sfx_magic.wav"
+    },
+    {
+      "id": "BaoAnimated",
+      "title": "Bao Animated",
+      "isPro": true,
+      "isAnimated": true,
+      "normalFile": "bao_animated.gif",
+      "reactionFile": "bao_animated_reaction.gif",
+      "chargingFile": "bao_animated_charging.gif",
+      "lowBatteryFile": "bao_animated_low_battery.gif",
+      "soundFile": "sfx_bao_laugh.mp3"
+    },
+    {
+      "id": "Naruto",
+      "title": "Chibi Shinobi",
+      "isPro": true,
+      "isAnimated": true,
+      "normalFile": "transparent_animation.gif",
+      "reactionFile": "naruto_reaction.gif",
+      "chargingFile": "transparent_animation_charging.gif",
+      "lowBatteryFile": "transparent_animation_sleepy.gif",
+      "soundFile": "rasengan.mp3"
+    }
+  ]
+}
