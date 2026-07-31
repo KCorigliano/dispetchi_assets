@@ -122,6 +122,17 @@
       "chargingFile": "transparent_animation_charging.gif",
       "lowBatteryFile": "transparent_animation_sleepy.gif",
       "soundFile": "rasengan.mp3"
+    },
+    {
+      "id": "Luna",
+      "title": "Luna",
+      "isPro": true,
+      "isAnimated": true,
+      "normalFile": "luna_animated.gif",
+      "reactionFile": "luna_reaction.gif",
+      "chargingFile": "",
+      "lowBatteryFile": "",
+      "soundFile": "sfx_magic.wav"
     }
   ]
 }
