@@ -130,8 +130,8 @@
       "isAnimated": true,
       "normalFile": "luna_animated.gif",
       "reactionFile": "luna_reaction.gif",
-      "chargingFile": "luna_animated.gif",
-      "lowBatteryFile": "luna_animated.gif",
+      "chargingFile": "luna_charging.gif",
+      "lowBatteryFile": "luna_low_battery.gif",
       "soundFile": "sfx_magic.wav"
     }
   ]
