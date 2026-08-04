@@ -132,7 +132,45 @@
       "reactionFile": "luna_reaction.gif",
       "chargingFile": "luna_charging.gif",
       "lowBatteryFile": "luna_low_battery.gif",
-      "soundFile": "sfx_magic.wav"
+      "soundFile": "sfx_magic.wav",
+      "quotes": {
+        "it": [
+          "🌙 Buonanotte stellare!",
+          "✨ Polvere di stelle per te!",
+          "💫 Esprimi un desiderio!",
+          "💜 La luna brilla per te!"
+        ],
+        "en": [
+          "🌙 Starlight goodnight!",
+          "✨ Stardust for you!",
+          "💫 Make a wish!",
+          "💜 Moonbeams for you!"
+        ],
+        "es": [
+          "🌙 ¡Buenas noches!",
+          "✨ ¡Polvo de estrellas!",
+          "💫 ¡Pide un deseo!",
+          "💜 ¡La luna brilla!"
+        ],
+        "fr": [
+          "🌙 Douce nuit étoilée!",
+          "✨ Poussière d'étoiles pour toi!",
+          "💫 Fais un vœu!",
+          "💜 Rayons de lune pour toi!"
+        ],
+        "de": [
+          "🌙 Gute Nacht!",
+          "✨ Sternenstaub für dich!",
+          "💫 Wünsch dir was!",
+          "💜 Mondschein für dich!"
+        ],
+        "ja": [
+          "🌙 おやすみなさい！",
+          "✨ 星くずをどうぞ！",
+          "💫 願い事をどうぞ！",
+          "💜 月の光をあなたに！"
+        ]
+      }
     }
   ]
 }
